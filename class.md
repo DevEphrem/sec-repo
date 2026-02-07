@@ -1,2 +1,0 @@
-ephrem
-front end dev
